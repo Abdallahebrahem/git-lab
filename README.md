@@ -6,3 +6,5 @@ Learning commits, branches, merging, and GitHub.
 This section was added on the feature branch.
 ## Remote Changes
 This change was made directly on GitHub.
+## Pull Request Practice
+This change will be submitted through a Pull Request.
