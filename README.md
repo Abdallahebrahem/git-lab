@@ -4,3 +4,5 @@ This repository is created to practice Git and GitHub operations.
 Learning commits, branches, merging, and GitHub.
 ## New Feature
 This section was added on the feature branch.
+## Remote Changes
+This change was made directly on GitHub.
